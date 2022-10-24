@@ -1,0 +1,183 @@
+Name of the ldContainer is: 
+Name of the ldContainer: 344509
+$VAR1 = [];
+$VAR1 = bless( {
+                 'adaptor' => bless( {
+                                       'db' => bless( {
+                                                        '_dbc' => bless( {
+                                                                           '_password' => sub { "DUMMY" },
+                                                                           '_username' => 'ensro',
+                                                                           'connected49227' => 1,
+                                                                           '_timeout' => 0,
+                                                                           '_driver_object' => bless( {
+                                                                                                        '_parent' => $VAR1->{'adaptor'}{'db'}{'_dbc'}
+                                                                                                      }, 'Bio::EnsEMBL::DBSQL::Driver::mysql' ),
+                                                                           '_host' => 'mysql-ens-plants-prod-1',
+                                                                           '_port' => '4243',
+                                                                           '_query_count' => 14,
+                                                                           '_driver' => 'mysql',
+                                                                           'db_handle49227' => bless( {}, 'DBI::db' ),
+                                                                           '_dbname' => 'triticum_aestivum_variation_43_96_4'
+                                                                         }, 'Bio::EnsEMBL::DBSQL::DBConnection' ),
+                                                        'vcf_config' => {},
+                                                        '_species' => 'triticum_aestivum',
+                                                        '_group' => 'variation',
+                                                        '_species_id' => 1,
+                                                        'include_failed_variations' => 0,
+                                                        '_is_multispecies' => '',
+                                                        'use_vcf' => 1
+                                                      }, 'Bio::EnsEMBL::Variation::DBSQL::DBAdaptor' ),
+                                       '_cached' => $VAR1,
+                                       'dbc' => $VAR1->{'adaptor'}{'db'}{'_dbc'},
+                                       'species_id' => 1,
+                                       '_cached_key' => 'chromosome:IWGSC:1A:2278216:2478216:1__1_2378216_0_0_',
+                                       '_is_multispecies' => ''
+                                     }, 'Bio::EnsEMBL::Variation::DBSQL::LDFeatureContainerAdaptor' ),
+                 'ldContainer' => {},
+                 'pos2name' => {},
+                 'name' => 344509,
+                 '_default_population' => undef,
+                 'slices' => [
+                               bless( {
+                                        'adaptor' => bless( {
+                                                              'db' => bless( {
+                                                                               'seq_region_cache' => bless( {
+                                                                                                              'id_cache' => {
+                                                                                                                              '1' => [
+                                                                                                                                       1,
+                                                                                                                                       '1A',
+                                                                                                                                       1,
+                                                                                                                                       594102056
+                                                                                                                                     ]
+                                                                                                                            },
+                                                                                                              'name_cache' => {
+                                                                                                                                '1A:1' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'seq_region_cache'}{'id_cache'}{'1'}
+                                                                                                                              }
+                                                                                                            }, 'Bio::EnsEMBL::Utils::SeqRegionCache' ),
+                                                                               '_is_multispecies' => '',
+                                                                               '_dbc' => bless( {
+                                                                                                  '_password' => sub { "DUMMY" },
+                                                                                                  '_username' => 'ensro',
+                                                                                                  'connected49227' => 1,
+                                                                                                  '_timeout' => 0,
+                                                                                                  '_driver_object' => bless( {
+                                                                                                                               '_parent' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'_dbc'}
+                                                                                                                             }, 'Bio::EnsEMBL::DBSQL::Driver::mysql' ),
+                                                                                                  '_host' => 'mysql-ens-plants-prod-1',
+                                                                                                  '_port' => '4243',
+                                                                                                  '_query_count' => 9,
+                                                                                                  '_driver' => 'mysql',
+                                                                                                  'db_handle49227' => bless( {}, 'DBI::db' ),
+                                                                                                  '_dbname' => 'triticum_aestivum_core_43_96_4'
+                                                                                                }, 'Bio::EnsEMBL::DBSQL::DBConnection' ),
+                                                                               '_species' => 'triticum_aestivum',
+                                                                               '_group' => 'core',
+                                                                               '_species_id' => 1
+                                                                             }, 'Bio::EnsEMBL::DBSQL::DBAdaptor' ),
+                                                              'sr_id_cache' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'seq_region_cache'}{'id_cache'},
+                                                              'is_circular' => 0,
+                                                              'asm_exc_cache' => {},
+                                                              'dbc' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'_dbc'},
+                                                              'sr_name_cache' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'seq_region_cache'}{'name_cache'},
+                                                              'species_id' => 1,
+                                                              '_is_multispecies' => '',
+                                                              'lrg_region_test' => undef
+                                                            }, 'Bio::EnsEMBL::DBSQL::SliceAdaptor' ),
+                                        'circular' => 0,
+                                        'end' => 2478216,
+                                        'seq_region_name' => '1A',
+                                        'coord_system' => bless( {
+                                                                   'adaptor' => bless( {
+                                                                                         '_dbID_cache' => {
+                                                                                                            '1' => $VAR1->{'slices'}[0]{'coord_system'},
+                                                                                                            '3' => bless( {
+                                                                                                                            'adaptor' => $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'},
+                                                                                                                            'version' => 'TGACv1',
+                                                                                                                            'name' => 'scaffold',
+                                                                                                                            'default' => 0,
+                                                                                                                            'sequence_level' => 0,
+                                                                                                                            'dbID' => 3,
+                                                                                                                            'top_level' => 0,
+                                                                                                                            'rank' => 3
+                                                                                                                          }, 'Bio::EnsEMBL::CoordSystem' ),
+                                                                                                            '2' => bless( {
+                                                                                                                            'adaptor' => $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'},
+                                                                                                                            'version' => 'IWGSC',
+                                                                                                                            'name' => 'scaffold',
+                                                                                                                            'default' => 1,
+                                                                                                                            'sequence_level' => 1,
+                                                                                                                            'dbID' => 2,
+                                                                                                                            'top_level' => 0,
+                                                                                                                            'rank' => 2
+                                                                                                                          }, 'Bio::EnsEMBL::CoordSystem' )
+                                                                                                          },
+                                                                                         '_name_cache' => {
+                                                                                                            'scaffold' => [
+                                                                                                                            $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'2'},
+                                                                                                                            $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'3'}
+                                                                                                                          ],
+                                                                                                            'chromosome' => [
+                                                                                                                              $VAR1->{'slices'}[0]{'coord_system'}
+                                                                                                                            ]
+                                                                                                          },
+                                                                                         'db' => $VAR1->{'slices'}[0]{'adaptor'}{'db'},
+                                                                                         '_rank_cache' => {
+                                                                                                            '1' => $VAR1->{'slices'}[0]{'coord_system'},
+                                                                                                            '3' => $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'3'},
+                                                                                                            '2' => $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'2'}
+                                                                                                          },
+                                                                                         '_is_sequence_level' => {
+                                                                                                                   '2' => 1
+                                                                                                                 },
+                                                                                         'dbc' => $VAR1->{'slices'}[0]{'adaptor'}{'db'}{'_dbc'},
+                                                                                         'species_id' => 1,
+                                                                                         '_top_level' => bless( {
+                                                                                                                  'adaptor' => $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'},
+                                                                                                                  'version' => undef,
+                                                                                                                  'name' => 'toplevel',
+                                                                                                                  'default' => 0,
+                                                                                                                  'sequence_level' => 0,
+                                                                                                                  'dbID' => undef,
+                                                                                                                  'top_level' => 1,
+                                                                                                                  'rank' => 0
+                                                                                                                }, 'Bio::EnsEMBL::CoordSystem' ),
+                                                                                         '_is_multispecies' => '',
+                                                                                         '_is_default_version' => {
+                                                                                                                    '1' => 1,
+                                                                                                                    '2' => 1
+                                                                                                                  },
+                                                                                         '_external_seq_region_mapping' => {},
+                                                                                         '_mapping_paths' => {
+                                                                                                               'chromosome:IWGSC|scaffold:TGACv1' => [
+                                                                                                                                                       $VAR1->{'slices'}[0]{'coord_system'},
+                                                                                                                                                       undef,
+                                                                                                                                                       $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'3'}
+                                                                                                                                                     ],
+                                                                                                               'chromosome:IWGSC|scaffold:IWGSC' => [
+                                                                                                                                                      $VAR1->{'slices'}[0]{'coord_system'},
+                                                                                                                                                      undef,
+                                                                                                                                                      $VAR1->{'slices'}[0]{'coord_system'}{'adaptor'}{'_dbID_cache'}{'2'}
+                                                                                                                                                    ]
+                                                                                                             },
+                                                                                         '_internal_seq_region_mapping' => {}
+                                                                                       }, 'Bio::EnsEMBL::DBSQL::CoordSystemAdaptor' ),
+                                                                   'version' => 'IWGSC',
+                                                                   'name' => 'chromosome',
+                                                                   'default' => 1,
+                                                                   'sequence_level' => 0,
+                                                                   'dbID' => 1,
+                                                                   'top_level' => 0,
+                                                                   'rank' => 1
+                                                                 }, 'Bio::EnsEMBL::CoordSystem' ),
+                                        'strand' => 1,
+                                        'seq_region_length' => 594102056,
+                                        'seq' => undef,
+                                        'start' => 2278216
+                                      }, 'Bio::EnsEMBL::Slice' )
+                             ],
+                 'pos2vf' => {},
+                 '_vf_name' => 'BA00063963',
+                 '_pop_ids' => {
+                                 '1' => 1
+                               }
+               }, 'Bio::EnsEMBL::Variation::LDFeatureContainer' );

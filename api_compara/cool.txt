@@ -1,0 +1,371 @@
+BREAST CANCER TYPE 2 SUSCEPTIBILITY HOMOLOG FANCONI ANEMIA GROUP D1 HOMOLOG
+ENSEMBLPEP ENSTNIP00000002435 (Tetraodon nigroviridis)--spotted green pufferfish
+ENSEMBLPEP ENSTNIP00000019355 (Tetraodon nigroviridis)--spotted green pufferfish
+ENSEMBLPEP ENSPVAP00000000225 (Pteropus vampyrus)--large flying fox
+ENSEMBLPEP ENSTRUP00000015030 (Takifugu rubripes)--torafugu
+ENSEMBLPEP ENSCPOP00000004635 (Cavia porcellus)--domestic guinea pig
+ENSEMBLPEP ENSGACP00000015199 (Gasterosteus aculeatus)--three-spined stickleback
+ENSEMBLPEP ENSMICP00000010933 (Microcebus murinus)--gray mouse lemur
+ENSEMBLPEP ENSDORP00000006609 (Dipodomys ordii)--Ord's kangaroo rat
+ENSEMBLPEP ENSSARP00000002541 (Sorex araneus)--European shrew
+ENSEMBLPEP ENSMMUP00000009432 (Macaca mulatta)--Rhesus monkey
+ENSEMBLPEP ENSCHOP00000007822 (Choloepus hoffmanni)--Hoffmann's two-fingered sloth
+ENSEMBLPEP ENSMEUP00000009812 (Macropus eugenii)--tammar wallaby
+ENSEMBLPEP ENSMLUP00000012516 (Myotis lucifugus)--little brown bat
+ENSEMBLPEP ENSBTAP00000001311 (Bos taurus)--cattle
+ENSEMBLPEP ENSAMEP00000009909 (Ailuropoda melanoleuca)--giant panda
+ENSEMBLPEP ENSLAFP00000026160 (Loxodonta africana)--African savanna elephant
+ENSEMBLPEP ENSLAFP00000002234 (Loxodonta africana)--African savanna elephant
+ENSEMBLPEP ENSLAFP00000016043 (Loxodonta africana)--African savanna elephant
+ENSEMBLPEP ENSOGAP00000009477 (Otolemur garnettii)--small-eared galago
+ENSEMBLPEP ENSSHAP00000012162 (Sarcophilus harrisii)--Tasmanian devil
+ENSEMBLPEP ENSGGOP00000027226 (Gorilla gorilla gorilla)--
+ENSEMBLPEP ENSGGOP00000015446 (Gorilla gorilla gorilla)--
+ENSEMBLPEP ENSGMOP00000010385 (Gadus morhua)--Atlantic cod
+ENSEMBLPEP ENSTGUP00000012130 (Taeniopygia guttata)--zebra finch
+ENSEMBLPEP ENSONIP00000006940 (Oreochromis niloticus)--Nile tilapia
+ENSEMBLPEP ENSSTOP00000004979 (Ictidomys tridecemlineatus)--thirteen-lined ground squirrel
+ENSEMBLPEP ENSOANP00000032170 (Ornithorhynchus anatinus)--platypus
+ENSEMBLPEP ENSMODP00000033276 (Monodelphis domestica)--gray short-tailed opossum
+ENSEMBLPEP ENSPPYP00000005997 (Pongo abelii)--Sumatran orangutan
+ENSEMBLPEP ENSOANP00000024376 (Ornithorhynchus anatinus)--platypus
+ENSEMBLPEP ENSOANP00000024378 (Ornithorhynchus anatinus)--platypus
+ENSEMBLPEP ENSMPUP00000001928 (Mustela putorius furo)--
+ENSEMBLPEP ENSLACP00000008815 (Latimeria chalumnae)--coelacanth
+ENSEMBLPEP ENSFCAP00000019777 (Felis catus)--domestic cat
+ENSEMBLPEP ENSECAP00000013146 (Equus caballus)--horse
+ENSEMBLPEP ENSECAP00000013360 (Equus caballus)--horse
+ENSEMBLPEP ENSNLEP00000001277 (Nomascus leucogenys)--northern white-cheeked gibbon
+ENSEMBLPEP ENSPTRP00000009812 (Pan troglodytes)--chimpanzee
+ENSEMBLPEP ENSACAP00000004459 (Anolis carolinensis)--green anole
+ENSEMBLPEP ENSXMAP00000006983 (Xiphophorus maculatus)--southern platyfish
+ENSEMBLPEP ENSXETP00000060681 (Xenopus tropicalis)--western clawed frog
+ENSEMBLPEP ENSXETP00000037057 (Xenopus tropicalis)--western clawed frog
+ENSEMBLPEP ENSPCAP00000000440 (Procavia capensis)--Cape rock hyrax
+ENSEMBLPEP ENSTTRP00000010004 (Tursiops truncatus)--bottlenosed dolphin
+ENSEMBLPEP ENSTBEP00000013856 (Tupaia belangeri)--northern tree shrew
+ENSEMBLPEP ENSVPAP00000000821 (Vicugna pacos)--alpaca
+ENSEMBLPEP ENSTSYP00000000441 (Tarsius syrichta)--Philippine tarsier
+ENSEMBLPEP ENSOPRP00000014082 (Ochotona princeps)--American pika
+ENSEMBLPEP ENSEEUP00000008968 (Erinaceus europaeus)--western European hedgehog
+ENSEMBLPEP ENSETEP00000003277 (Echinops telfairi)--small Madagascar hedgehog
+ENSEMBLPEP ENSAPLP00000007411 (Anas platyrhynchos)--mallard
+ENSEMBLPEP ENSOCUP00000014514 (Oryctolagus cuniculus)--rabbit
+ENSEMBLPEP ENSFALP00000008821 (Ficedula albicollis)--collared flycatcher
+ENSEMBLPEP ENSGALP00000027524 (Gallus gallus)--chicken
+ENSEMBLPEP ENSLOCP00000009962 (Lepisosteus oculatus)--spotted gar
+ENSEMBLPEP ENSLOCP00000009972 (Lepisosteus oculatus)--spotted gar
+ENSEMBLPEP ENSDNOP00000034947 (Dasypus novemcinctus)--nine-banded armadillo
+ENSEMBLPEP ENSAMXP00000013440 (Astyanax mexicanus)--Mexican tetra
+ENSEMBLPEP ENSPSIP00000012858 (Pelodiscus sinensis)--Chinese soft-shelled turtle
+ENSEMBLPEP ENSSSCP00000022872 (Sus scrofa)--pig
+ENSEMBLPEP ENSSSCP00000028073 (Sus scrofa)--pig
+ENSEMBLPEP ENSCJAP00000034250 (Callithrix jacchus)--white-tufted-ear marmoset
+ENSEMBLPEP ENSMGAP00000015990 (Meleagris gallopavo)--turkey
+ENSEMBLPEP ENSPANP00000002726 (Papio anubis)--olive baboon
+ENSEMBLPEP ENSCSAP00000013938 (Chlorocebus sabaeus)--green monkey
+ENSEMBLPEP ENSPFOP00000001575 (Poecilia formosa)--Amazon molly
+ENSEMBLPEP ENSPFOP00000024049 (Poecilia formosa)--Amazon molly
+ENSEMBLPEP ENSDARP00000099674 (Danio rerio)--zebrafish
+ENSEMBLPEP ENSCAFP00000009557 (Canis lupus familiaris)--
+ENSEMBLPEP ENSOARP00000011988 (Ovis aries)--sheep
+ENSEMBLPEP ENSOARP00000011990 (Ovis aries)--sheep
+ENSEMBLPEP ENSP00000369497 (Homo sapiens)--human
+ENSEMBLPEP ENSP00000439902 (Homo sapiens)--human
+ENSEMBLPEP ENSP00000434898 (Homo sapiens)--human
+ENSEMBLPEP ENSRNOP00000001475 (Rattus norvegicus)--Norway rat
+ENSEMBLPEP ENSMUSP00000038576 (Mus musculus)--house mouse
+ENSEMBLPEP ENSMUSP00000144676 (Mus musculus)--house mouse
+ENSEMBLPEP ENSMUSP00000144150 (Mus musculus)--house mouse
+ENSEMBLPEP LRG_293p1 (Homo sapiens)--human
+Uniprot/SPTREMBL A0A091PQ31 (Haliaeetus albicilla)--white-tailed eagle
+Uniprot/SPTREMBL G5CWS7 (Heterohyrax brucei)--yellow-spotted hyrax
+Uniprot/SPTREMBL A0A091EHE3 (Corvus brachyrhynchos)--American crow
+Uniprot/SPTREMBL G5CX38 (Dasyprocta punctata)--punctate agouti
+Uniprot/SPTREMBL A0A085MKT1 (Trichuris suis)--pig whipworm
+Uniprot/SPTREMBL G5CX18 (Daubentonia madagascariensis)--aye-aye
+Uniprot/SPTREMBL G5CX46 (Hydrochoerus hydrochaeris)--capybara
+Uniprot/SPTREMBL M1EDK9 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CWS2 (Amblysomus hottentotus)--Hottentot golden mole
+Uniprot/SPTREMBL G5CX22 (Nycticebus coucang)--slow loris
+Uniprot/SPTREMBL G5CWU9 (Eubalaena australis)--Southern right whale
+Uniprot/SPTREMBL G5CX30 (Capromys pilorides)--Desmarest's hutia
+Uniprot/SPTREMBL G5CX27 (Anomalurus beecrofti)--Beecroft's scaly-tailed squirrel
+Uniprot/SPTREMBL G5CX39 (Dinomys branickii)--pacarana
+Uniprot/SPTREMBL G5CX25 (Abrocoma bennettii)--Bennett's chinchilla rat
+Uniprot/SPTREMBL G5CX36 (Ctenodactylus gundi)--northern gundi
+Uniprot/SPTREMBL G5CX37 (Ctenomys boliviensis)--Bolivian tuco-tuco
+Uniprot/SPTREMBL Q8MKI9 (Canis lupus familiaris)--
+Uniprot/SPTREMBL G5CWU8 (Caperea marginata)--pygmy right whale
+Uniprot/SPTREMBL G5CX43 (Cratogeomys castanops)--yellow-faced pocket gopher
+Uniprot/SPTREMBL G5CX44 (Cratogeomys castanops)--yellow-faced pocket gopher
+Uniprot/SPTREMBL G5CWX4 (Manis pentadactyla)--Chinese pangolin
+Uniprot/SPTREMBL G5CWQ0 (Glironia venusta)--bushy-tailed opossum
+Uniprot/SPTREMBL G5CX32 (Castor canadensis)--American beaver
+Uniprot/SPTREMBL W5JAY9 (Anopheles darlingi)--
+Uniprot/SPTREMBL A0A075VNS4 (Pan paniscus)--pygmy chimpanzee
+Uniprot/SPTREMBL A0A075VR06 (Colobus guereza)--mantled guereza
+Uniprot/SPTREMBL G5CWU5 (Tragulus napu)--Balabac chevrotain
+Uniprot/SPTREMBL A0A075VXM4 (Gorilla gorilla)--western gorilla
+Uniprot/SPTREMBL I0IV85 (Canis lupus familiaris)--
+Uniprot/SPTREMBL G5CX33 (Chinchilla lanigera)--long-tailed chinchilla
+Uniprot/SPTREMBL M1EGQ8 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CX14 (Ateles fusciceps)--brown-headed spider monkey
+Uniprot/SPTREMBL A0A075VR15 (Hylobates agilis)--agile gibbon
+Uniprot/SPTREMBL A0A094NIH5 (Podiceps cristatus)--great crested grebe
+Uniprot/SPTREMBL G5CX26 (Cuniculus taczanowskii)--Mountain paca
+Uniprot/SPTREMBL G5CWT7 (Antilocapra americana)--pronghorn
+Uniprot/SPTREMBL G5CX02 (Cynocephalus volans)--Philippine flying lemur
+Uniprot/SPTREMBL G5CWR4 (Aepyprymnus rufescens)--rufous rat-kangaroo
+Uniprot/SPTREMBL G5CX56 (Laonastes aenigmamus)--Laotian rock rat
+Uniprot/SPTREMBL G5CX54 (Laonastes aenigmamus)--Laotian rock rat
+Uniprot/SPTREMBL G5CWX6 (Craseonycteris thonglongyai)--hog-nosed bat
+Uniprot/SPTREMBL M1EK51 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CWQ3 (Caenolestes fuliginosus)--silky shrew opossum
+Uniprot/SPTREMBL G5CWU6 (Megaptera novaeangliae)--humpback whale
+Uniprot/SPTREMBL G5CWV5 (Kogia breviceps)--pygmy sperm whale
+Uniprot/SPTREMBL G5CWW0 (Ailurus fulgens)--lesser panda
+Uniprot/SPTREMBL Q3TN53 (Mus musculus)--house mouse
+Uniprot/SPTREMBL M1EF00 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CWX7 (Craseonycteris thonglongyai)--hog-nosed bat
+Uniprot/SPTREMBL M1EDK6 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CX13 (Tupaia minor)--
+Uniprot/SPTREMBL A0A093ETY4 (Tyto alba)--barn owl
+Uniprot/SPTREMBL A0A075VNU9 (Symphalangus syndactylus)--siamang
+Uniprot/SPTREMBL A0A075VR10 (Nomascus gabriellae)--Red-cheeked gibbon
+Uniprot/SPTREMBL G5CX40 (Jaculus jaculus)--lesser Egyptian jerboa
+Uniprot/SPTREMBL A0A075VSW0 (Lophocebus albigena)--gray-cheeked mangabey
+Uniprot/SPTREMBL G5CX45 (Dipodomys heermanni)--Heermann's kangaroo rat
+Uniprot/SPTREMBL G5CX48 (Graphiurus murinus)--woodland dormouse
+Uniprot/SPTREMBL G5CWT8 (Lama glama)--llama
+Uniprot/SPTREMBL M1EG61 (Mustela putorius furo)--
+Uniprot/SPTREMBL G5CWR1 (Petaurus breviceps)--sugar glider
+Uniprot/SPTREMBL A0A091KJA4 (Chlamydotis macqueenii)--Macqueen's bustard
+Uniprot/SPTREMBL A0A094K295 (Caprimulgus carolinensis)--chuck-will's-widow
+Uniprot/SPTREMBL A0A075VSX4 (Trachypithecus francoisi)--Francois's langur
+Uniprot/SPTREMBL G5CWR5 (Hypsiprymnodon moschatus)--musky rat kangaroo
+Uniprot/SPTREMBL G5CX47 (Hystrix brachyurus)--
+Uniprot/SPTREMBL G5CWU4 (Pecari tajacu)--collared peccary
+Uniprot/SPTREMBL G5CWT4 (Bradypus tridactylus)--Pale-throated sloth
+Uniprot/SPTREMBL G5CWS5 (Rhynchocyon petersi)--black and rufous elephant shrew
+Uniprot/SPTREMBL A0A075VXM9 (Alouatta sara)--Bolivian red howler monkey
+Uniprot/SPTREMBL G5CWT6 (Cyclopes didactylus)--silky anteater
+Uniprot/SPTREMBL G5CWS4 (Elephantulus rufescens)--East African long-eared elephant shrew
+Uniprot/SPTREMBL G5CWP7 (Tachyglossus aculeatus)--Australian echidna
+Uniprot/SPTREMBL G5CWW4 (Mephitis mephitis)--striped skunk
+Uniprot/SPTREMBL G5CWY3 (Megaderma lyra)--Indian false vampire
+Uniprot/SPTREMBL G5CWU1 (Hexaprotodon liberiensis)--pygmy hippopotamus
+Uniprot/SPTREMBL B7ZVU5 (Danio rerio)--zebrafish
+Uniprot/SPTREMBL G5CWV0 (Eschrichtius robustus)--grey whale
+Uniprot/SPTREMBL Q9EPU1 (Rattus norvegicus)--Norway rat
+Uniprot/SPTREMBL G5CX20 (Propithecus verreauxi)--white sifaka
+Uniprot/SPTREMBL Q6PB43 (Mus musculus)--house mouse
+Uniprot/SPTREMBL G5CWR2 (Trichosurus vulpecula)--common brushtail
+Uniprot/SPTREMBL G5CWP9 (Caluromys philander)--bare-tailed woolly opossum
+Uniprot/SPTREMBL L9JDB5 (Tupaia chinensis)--Chinese tree shrew
+Uniprot/SPTREMBL G5CWQ2 (Notoryctes typhlops)--marsupial mole
+Uniprot/SPTREMBL K7C640 (Pan troglodytes)--chimpanzee
+Uniprot/SPTREMBL A5JSV3 (Tetraodon nigroviridis)--spotted green pufferfish
+Uniprot/SPTREMBL G3HM85 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL V8P1I7 (Ophiophagus hannah)--king cobra
+Uniprot/SPTREMBL U6DCD1 (Neovison vison)--
+Uniprot/SPTREMBL G5CWY1 (Furipterus horrens)--
+Uniprot/SPTREMBL G5CX12 (Ptilocercus lowii)--pen-tailed tree shrew
+Uniprot/SPTREMBL A0A0H4CW87 (Dugong dugon)--dugong
+Uniprot/SPTREMBL G5CWT5 (Myrmecophaga tridactyla)--giant anteater
+Uniprot/SPTREMBL G5CWQ5 (Isoodon macrourus)--northern brown bandicoot
+Uniprot/SPTREMBL S9X1Y4 (Camelus ferus)--Wild Bactrian camel
+Uniprot/SPTREMBL G5CWR7 (Tarsipes rostratus)--honey possum
+Uniprot/SPTREMBL G5CX53 (Thryonomys swinderianus)--Greater cane rat
+Uniprot/SPTREMBL I0IV83 (Canis lupus familiaris)--
+Uniprot/SPTREMBL G7PVZ4 (Macaca fascicularis)--crab-eating macaque
+Uniprot/SPTREMBL R7TCX8 (Capitella teleta)--
+Uniprot/SPTREMBL G5CWR3 (Phascolarctos cinereus)--koala
+Uniprot/SPTREMBL A0A087VA45 (Balearica regulorum gibbericeps)--
+Uniprot/SPTREMBL G5CWY0 (Furipterus horrens)--
+Uniprot/SPTREMBL G5CX51 (Pedetes capensis)--springhare
+Uniprot/SPTREMBL G5CX50 (Pedetes capensis)--springhare
+Uniprot/SPTREMBL H0YE37 (Homo sapiens)--human
+Uniprot/SPTREMBL G5CWV7 (Platanista minor)--Indus River dolphin
+Uniprot/SPTREMBL E0W1Z3 (Pediculus humanus corporis)--
+Uniprot/SPTREMBL G3HM86 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX10 (Ceratotherium simum)--white rhinoceros
+Uniprot/SPTREMBL A0A061I293 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL E0W1Z1 (Pediculus humanus corporis)--
+Uniprot/SPTREMBL G5CWW2 (Suricata suricatta)--meerkat
+Uniprot/SPTREMBL E5SA16 (Trichinella spiralis)--
+Uniprot/SPTREMBL A1YBP1 (Homo sapiens)--human
+Uniprot/SPTREMBL A0A0H4CR61 (Dugong dugon)--dugong
+Uniprot/SPTREMBL G5CWZ0 (Myzopoda aurita)--
+Uniprot/SPTREMBL Q33DR6 (Canis lupus familiaris)--
+Uniprot/SPTREMBL G5CWW8 (Odobenus rosmarus)--walrus
+Uniprot/SPTREMBL A0A093Q363 (Phalacrocorax carbo)--great cormorant
+Uniprot/SPTREMBL A0A091PYE8 (Leptosomus discolor)--cuckoo roller
+Uniprot/SPTREMBL G5CX28 (Aplodontia rufa)--mountain beaver
+Uniprot/SPTREMBL L5KEV4 (Pteropus alecto)--black flying fox
+Uniprot/SPTREMBL A0A075VSC5 (Pongo pygmaeus)--Bornean orangutan
+Uniprot/SPTREMBL G5CWP8 (Didelphis virginiana)--North American opossum
+Uniprot/SPTREMBL A0A093PBU9 (Pygoscelis adeliae)--Adelie penguin
+Uniprot/SPTREMBL G5CWT1 (Elephas maximus)--Asiatic elephant
+Uniprot/SPTREMBL G5CWW3 (Crocuta crocuta)--spotted hyena
+Uniprot/SPTREMBL G5CWS6 (Orycteropus afer)--aardvark
+Uniprot/SPTREMBL G5CWZ7 (Artibeus jamaicensis)--Jamaican fruit-eating bat
+Uniprot/SPTREMBL A8QLH9 (Danio rerio)--zebrafish
+Uniprot/SPTREMBL G5CWS9 (Dugong dugon)--dugong
+Uniprot/SPTREMBL K1RH48 (Crassostrea gigas)--Pacific oyster
+Uniprot/SPTREMBL G5CWQ7 (Echymipera kalubu)--Kalubu echymipera
+Uniprot/SPTREMBL G5CX16 (Cebus albifrons)--white-fronted capuchin
+Uniprot/SPTREMBL A0A091SWL2 (Pelecanus crispus)--Dalmatian pelican
+Uniprot/SPTREMBL A0A093KA59 (Struthio camelus australis)--
+Uniprot/SPTREMBL G5CWT9 (Cervus nippon taiouanus)--
+Uniprot/SPTREMBL G5CX03 (Galeopterus variegatus)--Sunda flying lemur
+Uniprot/SPTREMBL G5CX42 (Erethizon dorsatum)--North American porcupine
+Uniprot/SPTREMBL G5CX57 (Nannospalax ehrenbergi)--Ehrenberg's mole-rat
+Uniprot/SPTREMBL A0A067QRH9 (Zootermopsis nevadensis)--
+Uniprot/SPTREMBL A0A077YX13 (Trichuris trichiura)--human whipworm
+Uniprot/SPTREMBL G5CWS3 (Chrysochloris asiatica)--Cape golden mole
+Uniprot/SPTREMBL L5LT98 (Myotis davidii)--
+Uniprot/SPTREMBL G5CWY8 (Mystacina tuberculata)--New Zealand lesser short-tailed bat
+Uniprot/SPTREMBL G5CX01 (Thyroptera tricolor)--Spix's disk-winged bat
+Uniprot/SPTREMBL M7BD34 (Chelonia mydas)--green sea turtle
+Uniprot/SPTREMBL A0A026W4Z4 (Cerapachys biroi)--clonal raider ant
+Uniprot/SPTREMBL Q4R482 (Macaca fascicularis)--crab-eating macaque
+Uniprot/SPTREMBL A0A091R7B2 (Mesitornis unicolor)--brown roatelo
+Uniprot/SPTREMBL G5CWU2 (Moschus sp. RWM-2011)--
+Uniprot/SPTREMBL A0A075VNS9 (Hylobates pileatus)--pileated gibbon
+Uniprot/SPTREMBL A0A075VSC0 (Miopithecus talapoin)--talapoin
+Uniprot/SPTREMBL G5CWV1 (Mesoplodon bidens)--Sowerby's beaked whale
+Uniprot/SPTREMBL G5CWW5 (Meles meles)--Eurasian badger
+Uniprot/SPTREMBL G5CWX0 (Phoca vitulina)--harbor seal
+Uniprot/SPTREMBL A0A091INQ8 (Egretta garzetta)--little egret
+Uniprot/SPTREMBL G5CX06 (Podogymnura truei)--Mindanao gymnure
+Uniprot/SPTREMBL A0A0H4CQB0 (Hydrodamalis gigas)--Steller's sea cow
+Uniprot/SPTREMBL A0A075VSB5 (Macaca fascicularis)--crab-eating macaque
+Uniprot/SPTREMBL T2MFA1 (Hydra vulgaris)--
+Uniprot/SPTREMBL G5CWV3 (Delphinapterus leucas)--beluga whale
+Uniprot/SPTREMBL G5CWU0 (Okapia johnstoni)--okapi
+Uniprot/SPTREMBL G5CWZ5 (Nycteris thebaica)--Egyptian slit-faced bat
+Uniprot/SPTREMBL G5CWZ6 (Nycteris thebaica)--Egyptian slit-faced bat
+Uniprot/SPTREMBL G5CWX3 (Genetta genetta)--small-spotted genet
+Uniprot/SPTREMBL A0A075VXM7 (Callicebus cupreus)--coppery titi
+Uniprot/SPTREMBL G5CX00 (Rhinopoma hardwickii)--Lesser mouse-tailed bat
+Uniprot/SPTREMBL G5CWZ1 (Myzopoda aurita)--
+Uniprot/SPTREMBL G5CWX1 (Procyon lotor)--raccoon
+Uniprot/SPTREMBL S9X4J7 (Camelus ferus)--Wild Bactrian camel
+Uniprot/SPTREMBL N6TUK9 (Dendroctonus ponderosae)--mountain pine beetle
+Uniprot/SPTREMBL A0A075VSC8 (Hylobates lar)--common gibbon
+Uniprot/SPTREMBL G5CWT0 (Trichechus manatus)--West Indian manatee
+Uniprot/SPTREMBL G5CWR6 (Pseudochirops cupreus)--coppery ringtail possum
+Uniprot/SPTREMBL E9GFR3 (Daphnia pulex)--common water flea
+Uniprot/SPTREMBL G5CX09 (Talpa altaica)--Siberian mole
+Uniprot/SPTREMBL S7PZ47 (Myotis brandtii)--Brandt's bat
+Uniprot/SPTREMBL G5CWX8 (Saccopteryx bilineata)--greater sac-winged bat
+Uniprot/SPTREMBL G5CWQ1 (Dromiciops gliroides)--monito del monte
+Uniprot/SPTREMBL G5CWY7 (Pteronotus parnellii)--Parnell's mustached bat
+Uniprot/SPTREMBL A0A087ZYH4 (Apis mellifera)--honey bee
+Uniprot/SPTREMBL A4ZZ89 (Monodelphis domestica)--gray short-tailed opossum
+Uniprot/SPTREMBL A0A0J7NXY3 (Lasius niger)--
+Uniprot/SPTREMBL A0A060Y4H5 (Oncorhynchus mykiss)--rainbow trout
+Uniprot/SPTREMBL G5CWY9 (Myzopoda aurita)--
+Uniprot/SPTREMBL W4YCF6 (Strongylocentrotus purpuratus)--purple sea urchin
+Uniprot/SPTREMBL A0A093DPU9 (Pterocles gutturalis)--yellow-throated sandgrouse
+Uniprot/SPTREMBL A0A091WEP0 (Opisthocomus hoazin)--
+Uniprot/SPTREMBL A5A3F7 (Strongylocentrotus purpuratus)--purple sea urchin
+Uniprot/SPTREMBL A0A075APB9 (Rozella allomycis CSF55)--
+Uniprot/SPTREMBL K7JTG8 (Nasonia vitripennis)--jewel wasp
+Uniprot/SPTREMBL G5CWV6 (Physeter catodon)--sperm whale
+Uniprot/SPTREMBL L8HK23 (Acanthamoeba castellanii str. Neff)--
+Uniprot/SPTREMBL W4Z4A8 (Strongylocentrotus purpuratus)--purple sea urchin
+Uniprot/SPTREMBL F4WV33 (Acromyrmex echinatior)--Panamanian leafcutter ant
+Uniprot/SPTREMBL G6DCM7 (Danaus plexippus)--monarch butterfly
+Uniprot/SPTREMBL J9K360 (Acyrthosiphon pisum)--pea aphid
+Uniprot/SPTREMBL W4XGV6 (Strongylocentrotus purpuratus)--purple sea urchin
+Uniprot/SPTREMBL G5CX31 (Myocastor coypus)--nutria
+Uniprot/SPTREMBL G5CX58 (Petromyscus sp. RWM-2011)--
+Uniprot/SPTREMBL G5CX59 (Petromyscus sp. RWM-2011)--
+Uniprot/SPTREMBL G5CWW7 (Nandinia binotata)--African palm civet
+Uniprot/SPTREMBL G5CWW6 (Nandinia binotata)--African palm civet
+Uniprot/SPTREMBL G5CWS0 (Myrmecobius fasciatus)--numbat
+Uniprot/SPTREMBL G5CWW1 (Fossa fossana)--Malagasy civet
+Uniprot/SPTREMBL G5CWV9 (Prionodon linsang)--banded linsang
+Uniprot/SPTREMBL A0A0D2UGS7 (Capsaspora owczarzaki ATCC 30864)--
+Uniprot/SPTREMBL Q8QFV6 (Gallus gallus)--chicken
+Uniprot/SPTREMBL A0A061I0Y8 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX07 (Solenodon paradoxus)--Hispaniolan solenodon
+Uniprot/SPTREMBL G5CWV4 (Phocoena phocoena)--harbor porpoise
+Uniprot/SPTREMBL G5CWZ8 (Nyctimene albiventer)--common tube-nosed fruit bat
+Uniprot/SPTREMBL T1IU58 (Strigamia maritima)--
+Uniprot/SPTREMBL A0A075VR19 (Saimiri sciureus)--common squirrel monkey
+Uniprot/SPTREMBL G5CWZ9 (Rhinolophus creaghi)--
+Uniprot/SPTREMBL B0X0D2 (Culex quinquefasciatus)--southern house mosquito
+Uniprot/SPTREMBL A0A061I4Q1 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL I1EK07 (Amphimedon queenslandica)--
+Uniprot/SPTREMBL A4ZZ90 (Xenopus tropicalis)--western clawed frog
+Uniprot/SPTREMBL B7PB26 (Ixodes scapularis)--black-legged tick
+Uniprot/SPTREMBL E2BM50 (Harpegnathos saltator)--Jerdon's jumping ant
+Uniprot/SPTREMBL A0A091GS88 (Buceros rhinoceros silvestris)--
+Uniprot/SPTREMBL B6V3M4 (Oreochromis niloticus)--Nile tilapia
+Uniprot/SPTREMBL P70098 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX35 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX34 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL Q4PR36 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX41 (Hoplomys gymnurus)--armored rat
+Uniprot/SPTREMBL Q8R4X4 (Cricetulus griseus)--Chinese hamster
+Uniprot/SPTREMBL G5CX49 (Octodontomys gliroides)--
+Uniprot/SPTREMBL G5B7X6 (Heterocephalus glaber)--naked mole-rat
+Uniprot/SPTREMBL A7SNN6 (Nematostella vectensis)--starlet sea anemone
+Uniprot/SPTREMBL G5CX29 (Heterocephalus glaber)--naked mole-rat
+Uniprot/SPTREMBL E2A3F8 (Camponotus floridanus)--Florida carpenter ant
+Uniprot/SPTREMBL A0A091GDB0 (Cuculus canorus)--common cuckoo
+Uniprot/SPTREMBL A0A091IID7 (Calypte anna)--Anna's hummingbird
+Uniprot/SPTREMBL T1FTR6 (Helobdella robusta)--
+Uniprot/SPTREMBL T1HCP8 (Rhodnius prolixus)--
+Uniprot/SPTREMBL Q95143 (Chlorocebus aethiops)--grivet
+Uniprot/SPTREMBL A0A075VNU4 (Cercopithecus wolfi)--Wolf's monkey
+Uniprot/SPTREMBL A0A093F175 (Gavia stellata)--red-throated loon
+Uniprot/SPTREMBL A0A091UQ74 (Nipponia nippon)--crested ibis
+Uniprot/SPTREMBL G5CWR9 (Dasyurus albopunctatus)--New Guinean quoll
+Uniprot/SPTREMBL X1XML6 (Acyrthosiphon pisum)--pea aphid
+Uniprot/SPTREMBL A0A0F7CSW3 (Homo sapiens)--human
+Uniprot/SPTREMBL G5CX21 (Lemur catta)--Ring-tailed lemur
+Uniprot/SPTREMBL A0A091UBV2 (Phoenicopterus ruber ruber)--
+Uniprot/SPTREMBL A0A0A9YQU8 (Lygus hesperus)--lygus bug
+Uniprot/SPTREMBL A0A084VT60 (Anopheles sinensis)--
+Uniprot/SPTREMBL A0A099ZWS6 (Tinamus guttatus)--white-throated tinamou
+Uniprot/SPTREMBL D6WEG4 (Tribolium castaneum)--red flour beetle
+Uniprot/SPTREMBL A0A091DSV6 (Fukomys damarensis)--Damara mole-rat
+Uniprot/SPTREMBL G5CWQ6 (Macrotis lagotis)--bilby
+Uniprot/SPTREMBL D2UYY4 (Naegleria gruberi)--
+Uniprot/SPTREMBL W4X6Y2 (Atta cephalotes)--
+Uniprot/SPTREMBL A0A093S0V4 (Manacus vitellinus)--golden-collared manakin
+Uniprot/SPTREMBL G5CWR8 (Vombatus ursinus)--common wombat
+Uniprot/SPTREMBL G5CWV8 (Pontoporia blainvillei)--franciscana
+Uniprot/SPTREMBL G5CWY5 (Miniopterus manavi)--Manavi long-fingered bat
+Uniprot/SPTREMBL G5CWY6 (Tadarida brasiliensis)--Brazilian free-tailed bat
+Uniprot/SPTREMBL G5CWY4 (Miniopterus manavi)--Manavi long-fingered bat
+Uniprot/SPTREMBL G5CWZ2 (Natalus stramineus)--Mexican greater funnel-eared bat
+Uniprot/SPTREMBL A0A0C9QNW4 (Fopius arisanus)--
+Uniprot/SPTREMBL A0A087QM77 (Aptenodytes forsteri)--emperor penguin
+Uniprot/SPTREMBL Q16FF5 (Aedes aegypti)--yellow fever mosquito
+Uniprot/SPTREMBL Q16TT4 (Aedes aegypti)--yellow fever mosquito
+Uniprot/SPTREMBL G5CWW9 (Arctocephalus forsteri)--New Zealand fur seal
+Uniprot/SPTREMBL G5CWV2 (Inia geoffrensis)--boutu
+Uniprot/SPTREMBL Q8UW79 (Gallus gallus)--chicken
+Uniprot/SPTREMBL G5CWZ4 (Noctilio albiventris)--lesser bulldog bat
+Uniprot/SPTREMBL G5CX11 (Tapirus indicus)--Asiatic tapir
+Uniprot/SPTREMBL G5CWQ8 (Acrobates pygmaeus)--
+Uniprot/SPTREMBL G5CWX5 (Manis tricuspis)--Tree pangolin
+Uniprot/SPTREMBL A2ERV5 (Trichomonas vaginalis)--
+Uniprot/SPTREMBL G5CWX9 (Furipterus horrens)--
+Uniprot/SPTREMBL G5CX52 (Petromus typicus)--dassie-rat
+Uniprot/SPTREMBL G5CWQ9 (Cercartetus nanus)--
+Uniprot/SPTREMBL A0A091L944 (Cathartes aura)--turkey vulture
+Uniprot/SPTREMBL G5CWZ3 (Noctilio albiventris)--lesser bulldog bat
+Uniprot/SPTREMBL G5CWQ4 (Rhyncholestes raphanurus)--Chilean shrew opossum
+Uniprot/SPTREMBL G5CWY2 (Hipposideros commersoni)--Commerson's roundleaf bat
+Uniprot/SWISSPROT Q864S8 (Felis catus)--domestic cat
+Uniprot/SWISSPROT P97929 (Mus musculus)--house mouse
+Uniprot/SWISSPROT O35923 (Rattus norvegicus)--Norway rat
+Uniprot/SWISSPROT P51587 (Homo sapiens)--human
+UNKNOWN
+ENSEMBLPEP ENSP00000433168 (Homo sapiens)--human

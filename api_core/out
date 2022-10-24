@@ -1,0 +1,127 @@
+Summary of my perl5 (revision 5 version 14 subversion 2) configuration:
+   
+  Platform:
+    osname=linux, osvers=2.6.32-131.6.1.el6.x86_64, archname=x86_64-linux-thread-multi
+    uname='linux ebi-006.ebi.ac.uk 2.6.32-131.6.1.el6.x86_64 #1 smp mon jun 20 14:15:38 edt 2011 x86_64 x86_64 x86_64 gnulinux '
+    config_args='-de -Dprefix=/nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2 -Dusethreads -Duseshrplib -Accflags=-fPIC'
+    hint=recommended, useposix=true, d_sigaction=define
+    useithreads=define, usemultiplicity=define
+    useperlio=define, d_sfio=undef, uselargefiles=define, usesocks=undef
+    use64bitint=define, use64bitall=define, uselongdouble=undef
+    usemymalloc=n, bincompat5005=undef
+  Compiler:
+    cc='cc', ccflags ='-D_REENTRANT -D_GNU_SOURCE -fPIC -fno-strict-aliasing -pipe -fstack-protector -I/usr/local/include -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    optimize='-O2',
+    cppflags='-D_REENTRANT -D_GNU_SOURCE -fPIC -fno-strict-aliasing -pipe -fstack-protector -I/usr/local/include'
+    ccversion='', gccversion='4.4.5 20110214 (Red Hat 4.4.5-6)', gccosandvers=''
+    intsize=4, longsize=8, ptrsize=8, doublesize=8, byteorder=12345678
+    d_longlong=define, longlongsize=8, d_longdbl=define, longdblsize=16
+    ivtype='long', ivsize=8, nvtype='double', nvsize=8, Off_t='off_t', lseeksize=8
+    alignbytes=8, prototype=define
+  Linker and Libraries:
+    ld='cc', ldflags =' -fstack-protector -L/usr/local/lib'
+    libpth=/usr/local/lib /lib/../lib64 /usr/lib/../lib64 /lib /usr/lib /lib64 /usr/lib64 /usr/local/lib64
+    libs=-lnsl -ldb -ldl -lm -lcrypt -lutil -lpthread -lc
+    perllibs=-lnsl -ldl -lm -lcrypt -lutil -lpthread -lc
+    libc=/lib/libc-2.12.so, so=so, useshrplib=true, libperl=libperl.so
+    gnulibc_version='2.12'
+  Dynamic Linking:
+    dlsrc=dl_dlopen.xs, dlext=so, d_dlsymun=undef, ccdlflags='-Wl,-E -Wl,-rpath,/nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/lib/5.14.2/x86_64-linux-thread-multi/CORE'
+    cccdlflags='-fPIC', lddlflags='-shared -O2 -L/usr/local/lib -fstack-protector'
+
+
+Characteristics of this binary (from libperl): 
+  Compile-time options: MULTIPLICITY PERL_DONT_CREATE_GVSV
+                        PERL_IMPLICIT_CONTEXT PERL_MALLOC_WRAP
+                        PERL_PRESERVE_IVUV USE_64_BIT_ALL USE_64_BIT_INT
+                        USE_ITHREADS USE_LARGE_FILES USE_PERLIO USE_PERL_ATOF
+                        USE_REENTRANT_API
+  Built under linux
+  Compiled at Oct 28 2011 14:58:23
+  %ENV:
+    PERL5LIB="/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-variation/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-rest/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-production/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-pipeline/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-orm/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-metadata/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-io/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-hive/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensemblgenomes-api/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-funcgen/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-compara/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-analysis/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl/modules:/nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable:/nfs/production/panda/ensemblgenomes/apis/bioperl/stable:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-metadata/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-variation/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-rest/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-orm/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-production/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-pipeline/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-io/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-hive/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensemblgenomes-api/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-funcgen/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-compara/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-analysis/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl/modules:/nfs/production/panda/ensemblgenomes/apis/eg-release/lib:/nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable:/nfs/production/panda/ensemblgenomes/apis/bioperl/stable:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-metadata/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-variation/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-rest/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-orm/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-production/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-pipeline/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-io/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-hive/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensemblgenomes-api/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-funcgen/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-compara/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-analysis/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl/modules:/nfs/production/panda/ensemblgenomes/apis/eg-release/lib:/nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable:/nfs/production/panda/ensemblgenomes/apis/bioperl/stable:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-variation/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-taxonomy/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-rest/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-production/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-pipeline/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-orm/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-metadata/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-io/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-hive/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensemblgenomes-api/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-funcgen/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-compara/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-analysis/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl/modules:/nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable:/nfs/production/panda/ensemblgenomes/apis/bioperl/stable:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-pipelines/modules:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-proteinfeature/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-release/lib:/nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-utils/lib"
+    PERLBREW_BASHRC_VERSION="0.75"
+    PERLBREW_HOME="/homes/gnaamati/.perlbrew"
+    PERLBREW_MANPATH="/nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/man"
+    PERLBREW_PATH="/nfs/panda/ensemblgenomes/perl/perlbrew/bin:/nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/bin"
+    PERLBREW_PERL="5.14.2"
+    PERLBREW_ROOT="/nfs/panda/ensemblgenomes/perl/perlbrew"
+    PERLBREW_VERSION="0.75"
+  @INC:
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-variation/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-rest/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-production/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-pipeline/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-orm/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-metadata/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-io/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-hive/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensemblgenomes-api/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-funcgen/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-compara/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-analysis/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl/modules
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/stable
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-metadata/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-variation/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-rest/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-orm/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-production/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-pipeline/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-io/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-hive/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensemblgenomes-api/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-funcgen/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-compara/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-analysis/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl/modules
+    /nfs/production/panda/ensemblgenomes/apis/eg-release/lib
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/stable
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-metadata/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-variation/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-rest/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-orm/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-production/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-pipeline/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-io/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-hive/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensemblgenomes-api/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-funcgen/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-compara/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl-analysis/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/master/ensembl/modules
+    /nfs/production/panda/ensemblgenomes/apis/eg-release/lib
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/stable
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-variation/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-taxonomy/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-rest/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-production/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-pipeline/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-orm/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-metadata/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-io/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-hive/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensemblgenomes-api/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-funcgen/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-compara/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl-analysis/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/ensembl/modules
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/run-stable
+    /nfs/production/panda/ensemblgenomes/apis/bioperl/stable
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-pipelines/modules
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-proteinfeature/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-release/lib
+    /nfs/production/panda/ensemblgenomes/apis/ensembl/86/../../eg-utils/lib
+    /nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/lib/site_perl/5.14.2/x86_64-linux-thread-multi
+    /nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/lib/site_perl/5.14.2
+    /nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/lib/5.14.2/x86_64-linux-thread-multi
+    /nfs/panda/ensemblgenomes/perl/perlbrew/perls/5.14.2/lib/5.14.2
+    .
